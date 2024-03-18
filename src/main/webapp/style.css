@@ -147,7 +147,7 @@ form .form-help :where(label, a) {
 
 .form-wrapper small {
     display: block;
-    margin-top: 15px;
+    margin-top: 14px;
     color: #b3b3b3;
 }
 
